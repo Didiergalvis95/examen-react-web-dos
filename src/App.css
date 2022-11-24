@@ -18,6 +18,11 @@ body{
   list-style: none;
 }
 
+.elemento:hover{
+  text-decoration: underline;
+  transform: scale(1.1);
+}
+
 .enlace{
   text-decoration: none;
 }
@@ -56,6 +61,11 @@ body{
   width: 50%;
   border-radius: 10px 5px;
   border: none;
+}
+
+.boton:hover{
+  transform: scale(1.1);
+
 }
 
 .footer{
