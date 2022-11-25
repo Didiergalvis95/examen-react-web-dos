@@ -1,10 +1,8 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Header from './components/helpers/Header';
+import Header from './components/layouts/Header';
 import Main from './components/layouts/Main';
-import Footer from './components/helpers/Footer';
-/* import Header from './components/helpers/Header';
-import Main from './components/layouts/Main'; */
+import Footer from './components/layouts/Footer';
 
 function App() {
   return (

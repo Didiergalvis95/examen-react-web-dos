@@ -1,5 +1,5 @@
-import Imagen from './Imagen';
-import Menu from './Menu';
+import Imagen from '../helpers/Imagen';
+import Menu from '../helpers/Menu';
 
 const Header = () =>{
     return(

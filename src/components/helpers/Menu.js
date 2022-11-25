@@ -1,5 +1,3 @@
-import Section from "./Section";
-
 const Menu = () =>{
     return(
             <ul className='d-flex lista'>
